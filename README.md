@@ -54,7 +54,3 @@ This project is built to:
 - Practice async JavaScript
 - Learn image navigation logic
 - Handle timers and user interactions
-
----
-
-## 📁 Folder Structure
